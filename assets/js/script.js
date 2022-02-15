@@ -1,1 +1,3 @@
-console.log ("nuevamente jugnado con GIT")
+
+var nombre = prompt("hola, ingresa tu nombre")
+console.log(nombre)
